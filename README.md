@@ -1,11 +1,3 @@
-Perfeito, Leandro ⚙️
-Aqui está o **`README.md` completo**, pronto para subir no teu GitHub pessoal (`leandroald/votacoes-congresso`).
-Depois do conteúdo, te passo o bloco de comandos exato pra atualizar o repositório com um único copiar-colar.
-
----
-
-## 🧾 **Conteúdo do arquivo `README.md`**
-
 ```markdown
 # 🏛️ Votações do Congresso  
 **Transparência parlamentar com dados abertos + análise social com IA livre**  
@@ -178,6 +170,3 @@ Distribuído sob a licença MIT.
 Você pode usar, modificar e distribuir o código, desde que mantenha o crédito ao autor original.
 
 ````
-
----
-
