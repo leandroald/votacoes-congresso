@@ -22,3 +22,25 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+**/.terraform/
+**/.terraform.lock.hcl
+**/*.tfstate
+**/*.tfstate.*
+
+# Crash logs
+crash.log
+crash.*.log
+
+# Keys / certs (NUNCA commitar)
+*.pem
+*.key
+*.crt
+*.pfx
+
+# Repositórios bare/mirror e artefatos grandes
+repo-mirror.git/
+*.jar
+*.zip
+*.tar
+*.gz
